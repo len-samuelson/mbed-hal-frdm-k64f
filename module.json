@@ -29,6 +29,5 @@
     "mbed-hal":"ARMmbed/mbed-hal"
   },
   "targetDependencies": {
-    }
   }
 }
