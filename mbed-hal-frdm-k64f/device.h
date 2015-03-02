@@ -30,6 +30,7 @@
 
 #define DEVICE_I2C              1
 #define DEVICE_I2CSLAVE         1
+#define DEVICE_I2C_ASYNCH       1
 
 #define DEVICE_SPI              1
 #define DEVICE_SPI_ASYNCH       1
@@ -54,6 +55,8 @@
 #define DEVICE_STDIO_MESSAGES   1
 
 #define DEVICE_ERROR_RED        1
+
+#define DEVICE_LOWPOWERTIMER    1
 
 #include "objects.h"
 
