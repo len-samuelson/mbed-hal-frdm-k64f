@@ -26,7 +26,7 @@
     "mbed-hal-frdm-k64f"
   ],
   "dependencies": {
-    "mbed-hal-ksdk-mcu": "ARMmbed/mbed-hal-ksdk-mcu#~0.1.1"
+    "mbed-hal": "ARMmbed/mbed-hal-private#~0.1.0"
   },
   "targetDependencies": {}
 }
