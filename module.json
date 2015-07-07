@@ -27,7 +27,7 @@
     "mbed-hal-frdm-k64f"
   ],
   "dependencies": {
-    "mbed-hal": "~0.2.0"
+    "mbed-hal": "~0.3.0"
   },
   "targetDependencies": {}
 }
