@@ -38,6 +38,8 @@
 
 #define DEVICE_CAN              0
 
+#define DEVICE_RTC              1
+
 #define DEVICE_ETHERNET         0
 
 #define DEVICE_PWMOUT           1
